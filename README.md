@@ -17,4 +17,4 @@ The specific microcontroller used here is the DOIT ESP32 Devkit V1.
 -ExpressIf Boards Library
 
 ## Code Overview
-The code allows for the rotation of the servo motor to 90 degrees while the touch sensor is pressed.GPIO Pins (touch_sensor:14 servo_motor:15)
+The code allows for the rotation of the servo motor to 90 degrees while the touch sensor is pressed.GPIO Pins (touch_sensor:4 servo_motor:16)
